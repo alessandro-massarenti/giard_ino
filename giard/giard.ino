@@ -4,6 +4,7 @@
 #define userPin 7
 #define buttonOnePin 8
 #define buttonTwoPin 9
+#include <Arduino.h>
 
 #include "MController/Esp.h"
 #include "Hardware/Pump.h"
